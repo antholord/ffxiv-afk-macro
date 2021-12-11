@@ -2,7 +2,7 @@
 
 How to use : 
 
-Download [FFXIV-AFK-MACRO.zip](https://github.com/antholord/ffxiv-afk-macro/releases/download/1.0.0/FFXIV-AFK-MACRO.zip)
+Download [FFXIV-AFK-MACRO.zip](https://github.com/antholord/ffxiv-afk-macro/releases/download/1.0.1/FFXIV-AFK-MACRO.zip)
 
 Extract it and execute ffxiv-afk-macro.exe
 
